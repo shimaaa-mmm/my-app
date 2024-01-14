@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(red, yellow, green);
+  direction: rtl;
+
+}
+*::after,*::before{
+  box-sizing: border-box;
+}
